@@ -1,6 +1,6 @@
 
 ###Developed By : 
-###Register Number: 
+# Register Number : 212223230020
 ### Smoothing Filters
 # In[1]:Using Averaging Filter
 
@@ -50,8 +50,6 @@ plt.imshow(gaussian_blur)
 plt.title("Gaussian Blur")
 plt.axis("off")
 plt.show()
-
-
 
 
 # In[4]:Using Median Filter
